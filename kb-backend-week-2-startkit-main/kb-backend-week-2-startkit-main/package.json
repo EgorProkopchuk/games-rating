@@ -1,0 +1,23 @@
+{
+  "name": "golosovanie",
+  "version": "1.0.0",
+  "description": "Это стартовый архив для второй проектной работы по бэкенду.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EgorProkopchuk/games-rating.git"
+  },
+  "author": "Egor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EgorProkopchuk/games-rating/issues"
+  },
+  "homepage": "https://github.com/EgorProkopchuk/games-rating#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
